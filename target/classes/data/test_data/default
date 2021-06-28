@@ -1,0 +1,12 @@
+ Dane wczytywane domysnie:
+        WIDTH 640 // 640
+        HEIGHT  480 //480
+        X  4 //born
+        H 2  //spawn
+        Y 9  //increase value
+        Z 5  //decrease size and increase bullet velocity
+        L 10 //size
+        K 20 //bullet velocity
+        P 12 // number of bullets
+        TIME 120
+        WIN_SCORE  100

@@ -1,0 +1,11 @@
+WIDTH 500
+HEIGHT 500
+P           10
+       H 10
+       X 1
+       Y 6
+       Z 10
+       K 20
+       L 5
+       TIME 300
+       WIN_SCORE 50
