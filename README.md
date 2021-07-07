@@ -1,5 +1,5 @@
 ### About 
-Game of tanks was a desktop game made during 2th Semester of Applied Computer Science at the Warsaw University of Technology.
+Game of tanks was a desktop game made during 2nd Semester of Applied Computer Science at the Warsaw University of Technology.
 <br>
 Project duration: 26th February 2020 - 8th April 2020.
 <br>
